@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8"?>
+<translate xmlns:android="http://schemas.android.com/apk/res/android"
+    android:interpolator="@android:anim/cycle_interpolator"
+
+
+    android:duration="1000"
+    android:fromXDelta="0"
+    android:fromYDelta="0"
+    android:toXDelta="0"
+
+    android:toYDelta="40%p" />
+
+
+
+    <!---->
+     <!--use-part-1>
+
+
+
+
+<translate xmlns:android="http://schemas.android.com/apk/res/android"
+    android:interpolator="@android:anim/cycle_interpolator"
+
+
+    android:duration="1000"
+    android:fromXDelta="0"
+    android:fromYDelta="0"
+    android:toXDelta="0"
+
+    android:toYDelta="80%p" />
+
+
+    <!-android:interpolator="@android:anim/decelerate_interpolator"-->
+
+
+    <!--android:interpolator="@android:anim/linear_interpolator"-->
+
+    <!--android:interpolator="@android:anim/accelerate_decelerate_interpolator"-->
+
+    <!--use-->
+
+    <!--android:interpolator="@android:anim/anticipate_interpolator"-->
+    <!--android:interpolator="@android:anim/overshoot_interpolator"-->
+
+    <!--android:interpolator="@android:anim/anticipate_overshoot_interpolator"-->
